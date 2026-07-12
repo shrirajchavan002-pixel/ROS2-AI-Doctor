@@ -38,11 +38,17 @@ Debugging ROS2 is often more frustrating than it should be. A single runtime `Mo
 
 It intercepts raw errors, scans your workspace structure, and returns **verified, actionable recovery commands** grounded in real facts about your project — not speculative AI guessing.
 
-<!-- 🖼️ PLACEHOLDER: Screenshot -->
-<p align="center">
-  <img src="./assets/screenshot-analyze.png" alt="Analyze & Auto-Fix Screenshot" width="70%">
-</p>
+## 📸 Screenshots
 
+### Main Menu
+
+![Main Menu](./assets/screenshot-menu.png)
+
+---
+
+### AI Diagnosis Report
+
+![AI Diagnosis](./assets/screenshot-analyze.png)
 ---
 
 ## 🤔 Why ROS2 AI Doctor?
